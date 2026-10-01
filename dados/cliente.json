@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "cpf":"123.456.789-00",
+        "nome":"Mano Brown"
+    },
+    {
+        "id": 2,
+        "cpf":"987.654.321-00",
+        "nome":"Enzo Massedo"
+    },
+    {
+        "id": 3,
+        "cpf":"456.123.789-00",
+        "nome":"tiagu amarelu"
+    }
+]
